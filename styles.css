@@ -11,11 +11,12 @@ p{
     }
 	.prod{
 		display:flex;
+		justify-contents:space-between;
 	}
-.summ{
-	display:flex;
-	justify-contents:end;
-}
+	.summ{
+		display:flex;
+		justify-contents:end;
+	}
     .summary {
       border-top: 1px solid #5ea4f3;
       background-color: #f7fbff;
