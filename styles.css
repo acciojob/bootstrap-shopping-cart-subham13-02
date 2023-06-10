@@ -2,13 +2,20 @@
 p{
 	color:grey;
 }
+
 .product {
       border: 1px solid #ddd;
       padding: 10px;
       margin-bottom: 10px;
-		display:flex;
+		
     }
-
+	.prod{
+		display:flex;
+	}
+.summ{
+	display:flex;
+	justify-contents:end;
+}
     .summary {
       border-top: 1px solid #5ea4f3;
       background-color: #f7fbff;
